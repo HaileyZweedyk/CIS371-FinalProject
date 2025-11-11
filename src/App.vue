@@ -3,5 +3,5 @@
 </template>
 
 <script setup>
-    import ShopPage from './shopPage.vue'
+    import ShopPage from './Components/shopPage.vue'
 </script>
